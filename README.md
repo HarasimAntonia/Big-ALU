@@ -1,1 +1,1 @@
-# Big-ALU
+The circuit is a simplified arithmetic and logic unit (ALU), similar to what is found inside processors (Microprocessor/Microcontroller Architecture). Its role is to perform calculations between the 2 input data and to output the result (together with some flags signaling special situations) to one of the 4 outputs (for example, register blocks that subsequently save the result). To determine the desired operation, the bits in the instruction have the role of selecting the operation category (bits 13:12) and the specific operation within each category (bits 11:10).
